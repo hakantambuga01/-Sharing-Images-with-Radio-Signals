@@ -1,0 +1,36 @@
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.Form1.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.Properties.Resources.resources
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.csproj.GenerateResource.Cache
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Hakan_Projects\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.pdb
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe.config
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.exe
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.pdb
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.pdb
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.csprojResolveAssemblyReference.cache
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.Form1.resources
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.Properties.Resources.resources
+C:\Users\ASAykılıç\Desktop\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.csproj.GenerateResource.Cache
+C:\Users\ASAykılıç\Desktop\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe.config
+C:\Users\ASAykılıç\Desktop\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.exe
+C:\Users\ASAykılıç\Desktop\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.pdb
+C:\Users\HAKAN TAMBUĞA\Desktop\Notes\Tez\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\bin\Debug\Xbee_Haberlesme.exe.config
+C:\Users\HAKAN TAMBUĞA\Desktop\Notes\Tez\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.exe
+C:\Users\HAKAN TAMBUĞA\Desktop\Notes\Tez\ALICI_KODU\Xbee_Haberlesme\Xbee_Haberlesme\obj\Debug\Xbee_Haberlesme.pdb
